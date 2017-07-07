@@ -1,0 +1,49 @@
+.style{
+	background-color:darkslategrey;
+}
+
+
+.div1{
+	width:160px;
+	height:50px;
+
+}
+.div2{
+	
+	width:160px;
+	height:50px;
+
+}
+.color{
+	background-color:aqua;
+	font-size:25px;
+	font-family:timesnewroman;
+}
+.div3{
+	height:50px;
+	width:160px;
+	background-color:red;
+	padding:10px 25px 5px 20px;
+}
+.div4
+{
+	
+	height:50px;
+	width:160px;
+	background-color:red;
+	padding:5px 25px 5px 20px;
+}
+.center{
+	
+	margin-top:5%;
+}
+.submit{
+	background-color:green;
+	color:white;
+	margin-top:15px;
+	
+}
+.whole{
+	border:solid;
+	margin:100px;
+}
